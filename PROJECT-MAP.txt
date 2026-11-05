@@ -1,0 +1,13 @@
+fl0-mvp1-starter/
+├── app/
+│   ├── page.js          <- main working FL0 code
+│   ├── layout.js
+│   └── globals.css      <- styling
+├── public/
+│   └── sample-fl0-form.pdf
+├── docs/
+│   ├── ARCHITECTURE.md
+│   └── NEXT-STEPS.md
+├── package.json
+├── README.md            <- START HERE
+└── .gitignore
